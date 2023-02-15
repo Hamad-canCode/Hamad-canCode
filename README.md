@@ -4,7 +4,7 @@
 
 <br>
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/Muhammad-Hamad309/Muhammad-Hamad309/main/imgs/3efcf1e9a5f2c3354714699b321221b4.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Muhammad-Hamad309/Muhammad-Hamad309/main/imgs/3efcf1e9a5f2c3354714699b321221b4.gif">
 
 ## I'm a Software Engineer also an Adventurer of the TECH WORLD
 
