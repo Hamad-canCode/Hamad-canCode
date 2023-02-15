@@ -3,10 +3,14 @@
 [![MasterHead](https://raw.githubusercontent.com/Muhammad-Hamad309/Muhammad-Hamad309/main/imgs/LI-Banner.gif)]()
 
 <br>
-<img align="right" width="500px" src="https://raw.githubusercontent.com/Muhammad-Hamad309/Muhammad-Hamad309/main/imgs/3efcf1e9a5f2c3354714699b321221b4.gif">
+
+# I'm a Software Engineer, an Adventurer of the TECH WORLD!!!
+<br>
+<img align="right" width="450px" src="https://raw.githubusercontent.com/Muhammad-Hamad309/Muhammad-Hamad309/main/imgs/3efcf1e9a5f2c3354714699b321221b4.gif">
 
 
-## I'm a Software Engineer also an Adventurer of the TECH WORLD
+
+<br>
 
 - 🔭 Looking to work with Tech Companies and Clients
 - 🌱 Im **ALWAYS** Learning something 😶
@@ -16,7 +20,7 @@
 - 👣 Moving forward to Professionalism
 
 
-
+<br><br>
 <p align="center">
 <img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img alt="Visual Studio Code" width="26px" src="" style="padding-right:10px;" />
