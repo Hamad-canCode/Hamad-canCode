@@ -1,7 +1,6 @@
 
 [![MasterHead](https://raw.githubusercontent.com/Muhammad-Hamad309/Muhammad-Hamad309/main/imgs/LI-Banner.gif)]()
 
-<br>
 
 # I'm a Software Engineer, an Adventurer of the TECH WORLD!!!
 <br>
