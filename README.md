@@ -1,4 +1,3 @@
-### Hi there 👋
 
 [![MasterHead](https://raw.githubusercontent.com/Muhammad-Hamad309/Muhammad-Hamad309/main/imgs/LI-Banner.gif)]()
 
