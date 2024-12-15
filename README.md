@@ -8,12 +8,11 @@
 
 <br>
 
-- 🔭 Looking to work with Tech Companies and Clients
+- 🔭 Looking to help out Tech Companies and Clients
 - 🌱 Im **ALWAYS** Learning something 😶
-- ✨ Looking to work with other developers and Engineers 
-- 🥅 2023 Goals: Learn web 3 and explore the world of 3D
-- 🌍 Aim to spread my knowledge around the Globe
-- 👣 Moving forward to Professionalism
+- ✨ Collabing with fellow developers and Engineers 
+- 🥅 2025 Goals: Learn web 3 and explore the world of 3D
+- 👣 Lets make a Solution?????
 
 
 <br><br>
